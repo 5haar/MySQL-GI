@@ -2,10 +2,19 @@
 
 ---------------------------------------------------VERY EASY-----------------------------------------------------
 
+
+
+
+
+
 <img width="1192" alt="Screen Shot 2022-06-19 at 12 22 39 PM" src="https://user-images.githubusercontent.com/102987834/174674982-dce24abd-5aaf-4caf-b8e6-c83a150a9d62.png">
 
 
 ------------------------------------------------------EASY-------------------------------------------------------
+
+
+
+
 
 
 <img width="1241" alt="Screen Shot 2022-06-19 at 2 36 18 PM" src="https://user-images.githubusercontent.com/102987834/174676275-7c860d44-107f-4eb3-87c1-11595c7f25a9.png">
@@ -15,12 +24,29 @@
 <img width="1219" alt="Screen Shot 2022-06-19 at 2 37 35 PM" src="https://user-images.githubusercontent.com/102987834/174676281-78977799-8f1e-4935-a6a2-03dfe920691d.png">
 
 
+
+
+
+
 -----------------------------------------------------MEDIUM------------------------------------------------------
+
+
+
+
+
 
 <img width="938" alt="Screen Shot 2022-06-19 at 4 06 06 PM" src="https://user-images.githubusercontent.com/102987834/174676331-fefa3f7d-8491-40ad-acc6-242ba00cd2a2.png">
 
 
+
+
+
+
 ------------------------------------------------------HARD-------------------------------------------------------
+
+
+
+
 
 
 <img width="480" alt="Screen Shot 2022-06-19 at 5 35 25 PM" src="https://user-images.githubusercontent.com/102987834/174676385-d7feb25c-611c-41e8-b96c-9276deb0a913.png">
@@ -31,7 +57,15 @@
 <img width="1013" alt="Screen Shot 2022-06-19 at 6 47 19 PM" src="https://user-images.githubusercontent.com/102987834/174676392-af656be7-d852-4638-813b-05a39e31cc82.png">
 
 
+
+
+
+
 ---------------------------------------------------VERY HARD-----------------------------------------------------
+
+
+
+
 
 
 <img width="1020" alt="Screen Shot 2022-06-19 at 7 05 37 PM" src="https://user-images.githubusercontent.com/102987834/174676517-cbc3b9cb-2dce-46dc-aadd-7d24dd42d184.png">
